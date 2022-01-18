@@ -1,8 +1,12 @@
-・開発PC
-・開発ソフトウェア
-	Unity 2020.3.9f1
-	Visual Studio 2019
-・開発ソフトウェア
-	Blender 2.9
-使用サービス
-MRTK
+<開発PC>
+・iMac(Rentina 5K,27-inch,Late2015)
+・OMEN by HP Laptop 17-an0xx
+
+<開発ソフトウェア>
+	・Unity 2020.3.9f1
+	・Visual Studio 2019
+	・Adobe Illustrator
+	・Blender 2.9
+
+<UI構築>
+	MRTK 2.5 
